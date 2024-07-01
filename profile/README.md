@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are ICSA-Intelligent Computer Systems and Applications Group from Harokopio University of Athens</h1>
+<h1 align="center">Hi 👋, we are ICSA-Intelligent Computer Systems and Applications Group from Harokopio University of Athens</h1>
 <h3 align="center">Advancing Research, Development and Promoting New Knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icsa-hua&label=Profile%20views&color=0e75b6&style=flat" alt="icsa-hua" /> </p>
