@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icsa-hua&label=Profile%20views&color=0e75b6&style=flat" alt="icsa-hua" /> </p>
 
-- 🔭 We are currently working on [Energy Performance Evaluation Tool](https://github.com/icsa-hua/carla)
+- 🔭 We are currently working on: [Energy Performance Evaluation Tool](https://github.com/icsa-hua/carla)
 
-- 🌱 Our Research Subjects **Electric, Connected, Autonomous and Shared Vehicles, Unmanned Aerial Systems, Connected Health, AI-enabled Computing Algorithms, Technology Acceptance Modeling, Quality of Experience, 5G/6G Mobile Networks**
+- 🌱 Our Research Subjects: **Electric, Connected, Autonomous and Shared Vehicles, Unmanned Aerial Systems, Connected Health, AI-enabled Computing Algorithms, Technology Acceptance Modeling, Quality of Experience, 5G/6G Mobile Networks**
 
-- 👨‍💻 All of our projects are available at [https://github.com/icsa-hua](https://github.com/icsa-hua)
+- 👨‍💻 All of our projects are available at: [https://github.com/icsa-hua](https://github.com/icsa-hua)
 
-- 📝 Visit our website [http://icsa.hua.gr/](http://icsa.hua.gr/)
+- 📝 Visit our website: [http://icsa.hua.gr/](http://icsa.hua.gr/)
 
-- 📫 How to reach us **info_icsa@hua.gr**
+- 📫 How to reach us: **info_icsa@hua.gr**
 
-- 📄 Know about our work [http://icsa.hua.gr/publications.html](http://icsa.hua.gr/publications.html)
+- 📄 Know about our work: [http://icsa.hua.gr/publications.html](http://icsa.hua.gr/publications.html)
 
-- ⚡ Fun fact **We are not fact or fun**
+- ⚡ Fun fact: **We are not fact or fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
