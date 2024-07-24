@@ -15,7 +15,7 @@
 
 - 📄 Know about our work: [http://icsa.hua.gr/publications.html](http://icsa.hua.gr/publications.html)
 
-- ⚡ Fun fact: **We are not fact or fun**
+- ⚡ Fun fact: **We are not fact nor fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
