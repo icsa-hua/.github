@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **We are not fact nor fun**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/company/101810284/admin/feed/posts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/101810284/admin/feed/posts/" height="30" width="40" /></a>
 </p>
