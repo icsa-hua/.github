@@ -13,7 +13,7 @@
 
 - 📫 How to reach us: **info_icsa@hua.gr**
 
-- 📄 Know about our work: [http://icsa.hua.gr/publications.html](http://icsa.hua.gr/publications.html)
+- 📄 Know about our work: [http://icsa.hua.gr/publications.html](http://icsa.hua.gr/publications)
 
 - ⚡ Fun fact: **We are not fact nor fun**
 
